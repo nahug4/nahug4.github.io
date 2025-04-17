@@ -14,4 +14,9 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   }
+  button {
+    color: black;
+    background-color: cadetblue;
+    font-size: medium;
+  }
 }
