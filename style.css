@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+  .website-title {
+    margin-top: -50px; 
+    display: block;    
+    text-align: center; 
+    color: #e0e0e0;
+    font-size: 50px;
+  }
+  body {
+  background-image: url(https://media.istockphoto.com/id/516084897/photo/milk-splash.jpg?s=612x612&w=0&k=20&c=6tOaLDBo8H1j3fbAddJUuXxAVjcMDc-XhY6AsEtm6CE=);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+}
